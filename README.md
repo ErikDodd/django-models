@@ -18,7 +18,6 @@ How to initialize/run your application (where applicable)
 
 How to use your library (where applicable)
 
-
 ## Tests
 
 How do you run tests?
